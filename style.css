@@ -1,0 +1,112 @@
+section{
+    font-family: 'Poppins', sans-serif;
+font-family: 'Source Sans Pro', sans-serif;
+}
+#fast{
+    display: flex;
+}
+.first{
+    width: 50%;
+    padding-left: 5%;
+}
+.first img{
+    width: 90%;
+    height: 80%;
+    margin-top: 10px;
+}
+.first-border{
+    font-weight: 500;
+    border-left: 10px solid;
+    border-image-slice:1;
+    padding-left: 5%;
+    font-size: 30px;
+    border-image: repeating-linear-gradient(45deg, #f33, #3bf, #f33 30px) 60
+}
+ span{
+    color: chartreuse;
+}
+ p {
+    font-size: 20px;
+}
+.btn{  
+    text-decoration: none;
+    background-image: linear-gradient(skyblue,skyblue);
+    padding: 2% 4%;
+    border-radius: 7%;
+    font-weight: 600;
+    font-size: 20px;    
+}
+.sec-part{
+text-align: center;
+font-size: 60px;
+font-weight: 700;
+}
+.thrd-main{
+    margin-top: 3%;
+}
+.part-thrd{
+    display: flex;
+    text-align: center;
+   
+}
+.thrd{
+ box-shadow: 10px 10px 10px whitesmoke;
+ border-radius: 10%;
+margin: 0% 1% 4%;
+
+
+}
+.thrd img{
+    width: 30%;
+    height: 30%;
+}
+.thrd p{
+    font-size: 20px;
+}
+#one{
+    background-color:aquamarine;
+    margin-left: 10%;
+    padding: 1%;
+    width: 70%;
+    
+}
+#two{
+    background-color: skyblue;
+    padding: 2%;
+    width: 70%;
+    
+}
+#three{
+    background-color: khaki;
+    margin-right: 10%;
+    padding: 2%;
+    width: 70%; 
+}
+#four{
+    display: flex;
+}
+.box-content{
+    padding-top: 5%;
+    font-size: 25px;
+}
+#five{
+    display: flex;
+}
+#last{
+    display: flex;
+}
+.last{
+    width: 50%;
+}
+.new-btn{
+    margin: 10px;
+    width: 50%;
+    margin-left: 7%;
+    margin-top: 4%;
+}
+#ftr{
+    background-color: skyblue;
+    text-align: center;
+    padding-top: 7%;
+    padding-bottom: 4%;
+}
